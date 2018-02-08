@@ -1,1 +1,1 @@
-# mongodb-26-to-36-migration
+# MongoDB 2.6 to 3.6 migration - Sample App
